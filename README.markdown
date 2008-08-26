@@ -1,9 +1,8 @@
 A SIMBLE plugin that enables full-screen support for most Cocoa applications.
-Originally developed by Ian Henderson
-(http://ianhenderson.org/megazoomer.html), made into a Universal Binary by
-Mathias Meyer (http://paperplanes.de).
+Originally developed by [Ian Henderson](http://ianhenderson.org/megazoomer.html), made into a Universal Binary by
+[Mathias Meyer](http://paperplanes.de).
 
-# Installation
+## Installation ##
 
 * Install SIMBL
 * Download the bundle (http://www.paperplanes.de/files/megazoomer.zip)
@@ -11,6 +10,6 @@ Mathias Meyer (http://paperplanes.de).
 
 megazoomer will be in full effect the next time you start the application.
 
-# Known Issues
+## Known Issues ##
 
 * Doesn't seem to work with Xcode
